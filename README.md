@@ -32,7 +32,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 
 ## 📈 Estatísticas do GitHub
 
-![mdornell's Stats](https://github-readme-stats.vercel.app/api?username=mdornell&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+![mdornell's Stats](https://github-readme-stats.vercel.app/api?username=mdornell&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![mdornell's Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdornell&theme=dark&hide_border=false)
 ![mdornell's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mdornell&theme=dark&show_icons=true&hide_border=false&layout=compact)
 
